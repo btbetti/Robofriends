@@ -1,3 +1,8 @@
+# Description
+
+This is a practice website based on the Udemy - The Complete Web Developer in 2023: Zero to Mastery course.\
+It uses an external API to fetch "robofriends users". These users can be filtered using the searchbox.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
